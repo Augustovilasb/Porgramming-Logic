@@ -1,4 +1,4 @@
-package FirstExercise;
+package ProgrammingLogic;
 
 import java.util.Scanner;
 

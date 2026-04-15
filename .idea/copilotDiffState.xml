@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/src/src/SecondExercise/Main.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/src/SecondExercise/Main.java" />
+              <option name="originalContent" value="        if (number % 2 == 0) {&#10;            System.out.println(&quot;The number &quot; + number + &quot; is even.&quot;);&#10;        } else {&#10;            System.out.println(&quot;The number &quot; + number + &quot; is odd.&quot;);&#10;        }&#10;    }&#10;}&#10;package SecondExercise;&#10;&#10;public class Main {&#10;}&#10;" />
+              <option name="updatedContent" value="package SecondExercise;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner input = new Scanner(System.in);&#10;        System.out.println(&quot;Enter an integer: &quot;);&#10;        int number = input.nextInt();&#10;&#10;        if (number % 2 == 0) {&#10;            System.out.println(&quot;The number &quot; + number + &quot; is even.&quot;);&#10;        } else {&#10;            System.out.println(&quot;The number &quot; + number + &quot; is odd.&quot;);&#10;        }&#10;    }&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
